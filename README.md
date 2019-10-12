@@ -1,2 +1,2 @@
-# chess2
-Chess game
+# chess
+A chess game
